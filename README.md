@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=DvlyzDZDEq4
 $ git clone https://github.com/skymins04/webrtc-study.git
 $ cd webrtc-study
 $ npm install
+$ npm install -g peerjs
+$ peerjs --port 3001
 $ npm run start:dev
 ```
 
